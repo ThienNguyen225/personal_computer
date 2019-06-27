@@ -1,0 +1,1 @@
+Kết quả phép tính của bạn bằng: {{$result}}
